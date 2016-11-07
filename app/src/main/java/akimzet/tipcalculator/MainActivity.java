@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //Create Variables and connect them to widgets used
+        //Define Variables and connect them to widgets used
         titleTextView = (TextView) findViewById(R.id.titleTextView);
         totalTextView = (TextView) findViewById(R.id.totalTextView);
         costTextBox = (EditText) findViewById(R.id.costTextBox);
